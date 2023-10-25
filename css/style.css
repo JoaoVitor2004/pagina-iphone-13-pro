@@ -16,12 +16,20 @@ header nav {
 
 #navbar {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    width: 100%;
     align-items: center;
     font-size: .7rem;
-    padding: 0 1rem;
-    max-width: 1000px;
+    padding: .1rem 1rem;
     margin: 0 auto;
+}
+#list {
+    display: flex;
+    justify-content: center;
+    gap: 5.2rem;
+}
+#navbar #logo {
+    margin-right: 7rem;
 }
 #navbar a {
     color: white;
@@ -171,4 +179,38 @@ header nav {
 
 .selected {
     outline: 2px solid #43a1ff;
+}
+
+
+
+
+@media (max-width: 450px) {
+    #navbar {
+        width: 90%;
+    }
+    #list {
+        display: none;
+    }
+    #navbar #logo {
+        margin: 0;
+    }
+    #bottom-header-inner {
+        justify-content: center;
+        width: 100%;
+    }
+    #bottom-header-inner .btn {
+        display: block;
+        margin-left: 2rem;
+    }
+    #bottom-header-links #informations {
+        display: none;
+    }
+    #main-content #description {
+        max-width: 400px;
+    }
+    #main-content #product-image {
+        max-width: 355px;
+        margin-bottom: 100px;
+        margin-top: 100px;
+    }
 }
