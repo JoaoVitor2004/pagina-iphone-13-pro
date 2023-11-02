@@ -1,6 +1,7 @@
 <h1>Pagina clone iphone 13 pro</h1>
 <p>Um clone da pagina iphone 13 pro da apple</p>
-<img src="./imagens/Animação.gif">
+<img src="imagens/Captura de tela.PNG" alt="imagem do site">
+<img src="imagens/Captura de tela 2.PNG" alt="imagem do site">
 <h2>Tecnologias utilizadas</h2>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
