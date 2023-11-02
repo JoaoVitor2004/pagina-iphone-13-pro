@@ -17,7 +17,7 @@ header nav {
 #navbar {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 99.8%;
     align-items: center;
     font-size: .7rem;
     padding: .1rem;
