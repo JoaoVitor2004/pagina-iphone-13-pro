@@ -6,5 +6,6 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JAVASCRIPT</li>
 </ul> <br>
 <a style="font-weight: 500;" href="https://joaovitor2004.github.io/pagina-iphone-13-pro/">Link para visitar o site</a>
