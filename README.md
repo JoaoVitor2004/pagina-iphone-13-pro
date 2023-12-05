@@ -5,7 +5,7 @@
 <img src="imagens/Captura de tela.PNG" alt="imagem do site">
 <img src="imagens/Captura de tela 2.PNG" alt="imagem do site">
 
-<h2>⛏ Ferramenta tecnologias utilizadas</h2>
+<h2>⛏ Ferramenta e tecnologias utilizadas</h2>
 
 - Visual studio code
   
