@@ -1,11 +1,19 @@
-<h1>Pagina clone iphone 13 pro</h1>
-<p>Um clone da pagina iphone 13 pro da apple</p>
+<h1>Projeto clone iphone 13 pro</h1>
+
+<p>Clone da pagina da apple mostrando o novo iphone 13 pro contendo 5 botões, onde cada botão que eu clicar ele troca a imagem do iphone, cada um com uma cor.</p>
+
 <img src="imagens/Captura de tela.PNG" alt="imagem do site">
 <img src="imagens/Captura de tela 2.PNG" alt="imagem do site">
-<h2>Tecnologias utilizadas</h2>
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JAVASCRIPT</li>
-</ul> <br>
-<a style="font-weight: 500;" href="https://joaovitor2004.github.io/pagina-iphone-13-pro/">Link para visitar o site</a>
+
+<h2>⛏ Ferramenta tecnologias utilizadas</h2>
+
+- Visual studio code
+  
+    - HTML
+    - CSS
+    - JAVASCRIPT
+
+
+ <br>
+
+🔗 Link para acessar o <a href="https://joaovitor2004.github.io/pagina-iphone-13-pro/">site</a>
