@@ -291,7 +291,7 @@ header #navbar .menu {
         display: none;
     }
 
-    header #navbar input:checked ~ #list {
+    header #navbar input:checked~#list {
         display: block;
         position: absolute;
         z-index: 2;
